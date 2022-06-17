@@ -1,0 +1,11 @@
+Superficie_kilometros_cuadrados=57365
+Ubicacion="Al noroeste del país"
+Climas_sinaloa=["calido", "subhumedo", "seco", "semiseco"]
+Temperatura_media_anual_grados_centigrados=25.45
+Precipitacion_anual_promedio_mm=790.1
+Población_mujeres=1532128
+Poblacion_hombres=1494815
+Porcentaje_habitantes_culiacan=33.15
+Porcentaje_habitantes_mazatlan=16.57
+Poblacion_total=Población_mujeres+Poblacion_hombres
+Porcentaje_total_mazatlan_culiacan=Porcentaje_habitantes_culiacan+Porcentaje_habitantes_mazatlan
